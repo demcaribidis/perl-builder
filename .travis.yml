@@ -3,5 +3,5 @@ group: dev
 language: perl
 install: skip
 script:
-  - perl --version
-  - perl hello.pl
+- perl --version
+- perl hello.pl
