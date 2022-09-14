@@ -1,5 +1,5 @@
 dist: xenial
-group: dev
+group: edge
 language: perl
 perl:
  - 5.14.4
